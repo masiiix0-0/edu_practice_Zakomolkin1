@@ -21,5 +21,5 @@
 ![Топология](screenshots/part1_step1_topology.png)
 
 ### Шаг 2. MOTD на всех роутерах
-<img src="screenshots/image1.png" alt="MOTD на роутерах">
+<img src="screenshots/part1_step2_motd.png" alt="MOTD на роутерах">
 
