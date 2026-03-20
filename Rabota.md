@@ -18,7 +18,7 @@
 ## Часть 1
 
 ### Шаг 1. Топология сети
-image alt [Топология] (screnshots/Configure LAN 1 топология.png)
+![Топология](Configure LAN 1 топология.png)
 
 ### Шаг 2. MOTD на всех роутерах
 ```cisco
