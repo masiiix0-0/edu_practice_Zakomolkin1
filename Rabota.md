@@ -113,7 +113,8 @@
 ### <a id="part1-step3"></a>Шаг 3. Переименование устройств
 Переименовал все устройства согласно шаблону ТЗ - как визуально, так и с помощью команды hostname.
 <p align="center">
- <[image1](https://github.com/user-attachments/assets/33cd9537-8141-4646-bfbe-b5d1ac83e1bd)>
+ ![image1](https://github.com/user-attachments/assets/bb2ba4c0-39f1-4471-8480-1c92614723d3)
+
 
   <em>Рисунок 3. Изменение hostname на rus-nsk-sw0</em>
 </p>
