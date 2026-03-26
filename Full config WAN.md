@@ -92,7 +92,8 @@
 
 ### <a id="part1-step1"></a>Шаг 1. Построение топологии
 <p align="center">
-  <img width="1563" height="671" alt="ч1 1" src="https://github.com/user-attachments/assets/55b515e8-df8c-4d2d-b455-79dd3606272d"><br>
+  <img width="1563" height="671" alt="ч1 1" src=""><img width="2103" height="839" alt="Снимок экрана 2026-03-27 015313" src="https://github.com/user-attachments/assets/4f77f14b-18e7-46c6-a737-7b3c0d538631" />
+<br>
   <em>Рисунок 1. Схема топологии сети в Cisco Packet Tracer</em>
 </p>
 
